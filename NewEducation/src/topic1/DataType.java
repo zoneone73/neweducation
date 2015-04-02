@@ -31,7 +31,7 @@ public class DataType {
       float short_to_float = myshort[2];
       double short_to_double = myshort[3];
       
-      int char_to_int = mychar;
+      int char_to_int = mychar; // Never used
       long char_to_long = mychar;
       float char_to_float = mychar;
       double char_to_double = mychar;
